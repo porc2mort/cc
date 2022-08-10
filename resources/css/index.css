@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    color:white;
+  }
+ 
+   body{
+     background-color: rgba(0,0,0,0.9);
+    
+   }
+   
+  h1 {
+    color: SeaGreen;
+  }
+   
+   
+   
+  a {
+    text-decoration: none;
+  }
+  nav, header {
+    display:flex;
+    width:100%;
+  }
+#logo{
+  
+}
+nav li {
+  display:inline;
+  padding: 0 20px;
+}
+nav{
+  justify-content: flex-end;
+  padding: 0 20px;
+  align-items: center;
+  
+}
+main{
+  display:flex;
+}
+main img{
+  width:100%;
+
+}
+
